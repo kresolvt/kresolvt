@@ -1,7 +1,7 @@
 [![MasterHead](https://images.unsplash.com/photo-1690585703267-de31ea667ef0?q=80&w=1200&h=200&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)](https://kresolvt.io)
 <h1 align="center">Hi 👋, I'm Krešimir Leventić</h1>
 <h3 align="center">Junior Software Engineer from Vienna</h3>
-<img align="right" alt="Coding" width="350" height="auto" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjlxZGp2Z3lpN2lwMGhuMzhua2R0b25ubDh1dXUyZjhodjVsbW92eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
+<img align="right" alt="Coding" width="300" height="auto" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjlxZGp2Z3lpN2lwMGhuMzhua2R0b25ubDh1dXUyZjhodjVsbW92eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kresolvt&label=Profile%20views&color=0e75b6&style=flat" alt="kresolvt" /> </p>
 
 - 👨‍💻 U can see some projects at [https://kresolvt.github.io/](https://kresolvt.github.io/)
